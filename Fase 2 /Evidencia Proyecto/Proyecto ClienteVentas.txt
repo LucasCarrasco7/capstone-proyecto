@@ -1,0 +1,17 @@
+"Obtener de manera predictiva los comportamientos de los usuarios en base a las tendencias de sus consumos dentro de un producto determinado de Skip (cupón electrónico-tct-tae) para así determinar a meses futuros la tendencia que podrían tener en base a las siguientes reglas:
+
+Cliente Nuevo: Cuando la fecha de su primera compra es igual al periodo
+cargado, y que no poseen ventas hace 12 meses.
+
+• Cliente Perdido: Cuando no posee ventas en un total de 3 periodos hacia
+atrás y en el periodo actual.
+
+• Cliente Decrecen: Cuando el promedio de la venta de los últimos 3 meses
+multiplicado por 0,5 es menor que la venta actual.
+
+• Cliente Crecen: Cuando la venta actual es mayor al promedio de los últimos 3
+meses multiplicado por 1,5.
+
+• Clientes Reactivados: Aquellos que consumen este mes, que no
+consumieron los 3 meses anterior y que consumieron el mismo mes de hoy
+pero el año anterior."

@@ -1,0 +1,52 @@
+BEGIN;
+
+
+CREATE TABLE IF NOT EXISTS public.clientes
+(
+    id_cliente serial NOT NULL,
+    nombre character varying(100) COLLATE pg_catalog."default",
+    apellido character varying(100) COLLATE pg_catalog."default",
+    rut character varying(12) COLLATE pg_catalog."default",
+    fecha_compra date,
+    producto character varying(255) COLLATE pg_catalog."default",
+    monto numeric(10, 2),
+    identificador serial NOT NULL,
+    CONSTRAINT clientes_pkey PRIMARY KEY (id_cliente)
+);
+
+CREATE TABLE IF NOT EXISTS public.login_data
+(
+    id_login serial NOT NULL,
+    email character varying(100) COLLATE pg_catalog."default",
+    usuario character varying(50) COLLATE pg_catalog."default",
+    nombre character varying(100) COLLATE pg_catalog."default",
+    telefono character varying(15) COLLATE pg_catalog."default",
+    "contraseña" character varying(100) COLLATE pg_catalog."default",
+    tipo_usuario character varying(50) COLLATE pg_catalog."default",
+    id_cliente serial NOT NULL,
+    CONSTRAINT login_data_pkey PRIMARY KEY (id_login),
+    CONSTRAINT unique_usuario UNIQUE (usuario)
+);
+
+ALTER TABLE IF EXISTS public.clientes
+    ADD FOREIGN KEY (id_cliente)
+    REFERENCES public.login_data (id_cliente) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+END;
+
+
+
+DROP TABLE IF EXISTS public.login_data;
+
+DROP TABLE IF EXISTS public.clientes;
+
+
+CREATE SEQUENCE IF NOT EXISTS clientes_identificador_seq
+    START WITH 1
+    INCREMENT BY 1
+    MINVALUE 1
+    NO MAXVALUE
+    CACHE 1;

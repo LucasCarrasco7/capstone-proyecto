@@ -1,0 +1,57 @@
+DELETE FROM clientes;
+
+-- Database: Skip
+
+-- DROP DATABASE IF EXISTS copec;
+
+CREATE DATABASE Skip
+WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Spanish_Latin America.1252'
+    LC_CTYPE = 'Spanish_Latin America.1252'
+    LOCALE_PROVIDER = 'libc'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1
+    IS_TEMPLATE = False;
+
+
+-- Table: public.clientes
+
+-- DROP TABLE IF EXISTS public.clientes;
+
+CREATE TABLE IF NOT EXISTS public.clientes
+(
+    nombre character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    apellido character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    rut character varying(12) COLLATE pg_catalog."default" NOT NULL,
+    fecha_compra date NOT NULL,
+    producto character varying(255) COLLATE pg_catalog."default" NOT NULL,
+    monto numeric(10,2) NOT NULL,
+    identificador integer NOT NULL DEFAULT nextval('clientes_identificador_seq'::regclass),
+    CONSTRAINT clientes_identificador_key UNIQUE (identificador)
+)
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.clientes
+    OWNER TO postgres;
+
+
+-- Table: public.login_data
+
+-- DROP TABLE IF EXISTS public.login_data;
+
+CREATE TABLE IF NOT EXISTS public.login_data
+(
+    email character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    usuario character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    nombre character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    telefono character varying(15) COLLATE pg_catalog."default",
+    "contraseña" character varying(100) COLLATE pg_catalog."default" NOT NULL,
+    tipo_usuario character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT login_data_pkey PRIMARY KEY (email)
+)
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.login_data
+    OWNER TO postgres;
