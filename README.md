@@ -1,1 +1,1 @@
-Proyecto Analisis Predictivo de Tendencias Skip 
+Capstone-Proyecto Analisis Predictivo de Tendencias Skip 
