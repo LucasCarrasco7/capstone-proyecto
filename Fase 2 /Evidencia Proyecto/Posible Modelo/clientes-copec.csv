@@ -1,0 +1,431 @@
+Juan,PÃ©rez,12345678-9,2023-05-15,Gasolina 93,35000
+MarÃ­a,GonzÃ¡lez,98765432-1,2023-06-02,Diesel,45000
+Pedro,Soto,45678901-2,2023-07-10,Gasolina 95,40000
+Ana,MuÃ±oz,78901234-3,2023-08-20,Gasolina 93,38000
+Carlos,Rojas,23456789-0,2023-09-05,Diesel,50000
+Laura,DÃ­az,56789012-3,2023-10-12,Gasolina 97,42000
+Juan,PÃ©rez,12345678-9,2023-11-18,Diesel,48000
+SofÃ­a,Vargas,89012345-4,2023-12-25,Gasolina 95,39000
+Diego,Castro,34567890-1,2024-01-07,Gasolina 93,36000
+MarÃ­a,GonzÃ¡lez,98765432-1,2024-02-14,Gasolina 97,43000
+Camila,FernÃ¡ndez,67890123-4,2024-03-22,Diesel,47000
+Jorge,Navarro,90123456-5,2024-04-30,Gasolina 95,41000
+Ana,MuÃ±oz,78901234-3,2024-05-10,Gasolina 93,37000
+Roberto,SÃ¡nchez,12398765-4,2023-05-20,Gasolina 95,39500
+Isabel,LÃ³pez,87654321-0,2023-06-08,Diesel,46000
+AndrÃ©s,MartÃ­nez,23456789-1,2023-07-15,Gasolina 97,44000
+Carolina,HernÃ¡ndez,34567890-2,2023-08-25,Gasolina 93,37500
+Felipe,Torres,45678901-3,2023-09-10,Diesel,49000
+Valentina,Silva,56789012-4,2023-10-18,Gasolina 95,40500
+Rodrigo,Morales,67890123-5,2023-11-22,Gasolina 93,36500
+Javiera,GuzmÃ¡n,78901234-6,2023-12-30,Diesel,47500
+CristÃ³bal,Fuentes,89012345-7,2024-01-12,Gasolina 97,43500
+Constanza,Araya,90123456-8,2024-02-20,Gasolina 95,40000
+Gabriel,Espinoza,01234567-9,2024-03-28,Gasolina 93,37000
+Antonia,Vega,12345678-0,2024-05-05,Diesel,48500
+SebastiÃ¡n,Campos,23456789-1,2023-05-25,Gasolina 95,39000
+Daniela,Riquelme,34567890-2,2023-06-15,Gasolina 97,42500
+Ignacio,Pizarro,45678901-3,2023-07-20,Diesel,46500
+Francisca,Carvajal,56789012-4,2023-08-30,Gasolina 93,36000
+MatÃ­as,Orellana,67890123-5,2023-09-15,Gasolina 95,40000
+Isidora,Jara,78901234-6,2023-10-22,Diesel,48000
+BenjamÃ­n,Contreras,89012345-7,2023-11-28,Gasolina 97,43000
+Catalina,SepÃºlveda,90123456-8,2023-12-05,Gasolina 93,37500
+Vicente,Valenzuela,01234567-9,2024-01-18,Gasolina 95,39500
+Fernanda,Olivares,12345678-0,2024-02-25,Diesel,47000
+TomÃ¡s,AlarcÃ³n,23456789-1,2024-03-05,Gasolina 93,36500
+Martina,Godoy,34567890-2,2024-04-10,Gasolina 97,42000
+Lucas,Miranda,45678901-3,2024-05-15,Diesel,49500
+Amanda,Bravo,56789012-4,2023-05-30,Gasolina 95,40500
+Emilio,Vera,67890123-5,2023-06-20,Gasolina 93,37000
+Josefina,Molina,78901234-6,2023-07-25,Diesel,46000
+Maximiliano,Reyes,89012345-7,2023-08-05,Gasolina 97,43500
+Florencia,Poblete,90123456-8,2023-09-20,Gasolina 95,39000
+CristiÃ¡n,Escobar,01234567-9,2023-10-28,Gasolina 93,36000
+Magdalena,Meza,12345678-0,2023-11-05,Diesel,47500
+AgustÃ­n,IbÃ¡Ã±ez,23456789-1,2023-12-10,Gasolina 97,42500
+Renata,Gallardo,34567890-2,2024-01-22,Gasolina 95,40000
+NicolÃ¡s,Leiva,45678901-3,2024-02-28,Gasolina 93,37500
+Emilia,CÃ¡ceres,56789012-4,2024-03-10,Diesel,48000
+JoaquÃ­n,Vidal,67890123-5,2024-04-15,Gasolina 97,43000
+Trinidad,Aguilera,78901234-6,2024-05-20,Gasolina 95,39500
+Mateo,Parra,89012345-7,2023-06-05,Gasolina 93,36500
+Maite,Romero,90123456-8,2023-07-12,Diesel,46500
+Alonso,Aravena,01234567-9,2023-08-18,Gasolina 97,42000
+SofÃ­a,Vargas,89012345-4,2023-09-25,Gasolina 95,40500
+Juan,PÃ©rez,12345678-9,2023-10-30,Gasolina 93,37000
+MarÃ­a,GonzÃ¡lez,98765432-1,2023-11-08,Diesel,47000
+Pedro,Soto,45678901-2,2023-12-15,Gasolina 97,43500
+Ana,MuÃ±oz,78901234-3,2024-01-20,Gasolina 95,39000
+Carlos,Rojas,23456789-0,2024-02-25,Gasolina 93,36000
+Laura,DÃ­az,56789012-3,2024-03-05,Diesel,48500
+Diego,Castro,34567890-1,2024-04-10,Gasolina 97,42500
+Camila,FernÃ¡ndez,67890123-4,2024-05-15,Gasolina 95,40000
+Jorge,Navarro,90123456-5,2023-06-22,Gasolina 93,37500
+Roberto,SÃ¡nchez,12398765-4,2023-07-28,Diesel,46000
+Isabel,LÃ³pez,87654321-0,2023-08-05,Gasolina 97,43000
+AndrÃ©s,MartÃ­nez,23456789-1,2023-09-12,Gasolina 95,39500
+Carolina,HernÃ¡ndez,34567890-2,2023-10-18,Gasolina 93,36500
+Felipe,Torres,45678901-3,2023-11-25,Diesel,47500
+Valentina,Silva,56789012-4,2023-12-30,Gasolina 97,42000
+Rodrigo,Morales,67890123-5,2024-01-08,Gasolina 95,40500
+Javiera,GuzmÃ¡n,78901234-6,2024-02-15,Gasolina 93,37000
+CristÃ³bal,Fuentes,89012345-7,2024-03-22,Diesel,48000
+Constanza,Araya,90123456-8,2024-04-28,Gasolina 97,43500
+Gabriel,Espinoza,01234567-9,2024-05-05,Gasolina 95,39000
+Antonia,Vega,12345678-0,2023-06-12,Gasolina 93,36000
+SebastiÃ¡n,Campos,23456789-1,2023-07-18,Diesel,46500
+Daniela,Riquelme,34567890-2,2023-08-25,Gasolina 97,42500
+Ignacio,Pizarro,45678901-3,2023-09-30,Gasolina 95,40000
+Francisca,Carvajal,56789012-4,2023-10-08,Gasolina 93,37500
+MatÃ­as,Orellana,67890123-5,2023-11-15,Diesel,47000
+Isidora,Jara,78901234-6,2023-12-22,Gasolina 97,43000
+BenjamÃ­n,Contreras,89012345-7,2024-01-28,Gasolina 95,39500
+Catalina,SepÃºlveda,90123456-8,2024-02-05,Gasolina 93,36500
+Vicente,Valenzuela,01234567-9,2024-03-12,Diesel,48500
+Fernanda,Olivares,12345678-0,2024-04-18,Gasolina 97,42000
+TomÃ¡s,AlarcÃ³n,23456789-1,2024-05-25,Gasolina 95,40500
+Martina,Godoy,34567890-2,2023-06-30,Gasolina 93,37000
+Lucas,Miranda,45678901-3,2023-07-08,Diesel,46000
+Amanda,Bravo,56789012-4,2023-08-15,Gasolina 97,43500
+Emilio,Vera,67890123-5,2023-09-22,Gasolina 95,39000
+Josefina,Molina,78901234-6,2023-10-28,Gasolina 93,36000
+Maximiliano,Reyes,89012345-7,2023-11-05,Diesel,47500
+Florencia,Poblete,90123456-8,2023-12-12,Gasolina 97,42500
+CristiÃ¡n,Escobar,01234567-9,2024-01-18,Gasolina 95,40000
+Magdalena,Meza,12345678-0,2024-02-25,Gasolina 93,37500
+AgustÃ­n,IbÃ¡Ã±ez,23456789-1,2024-03-05,Diesel,48000
+Renata,Gallardo,34567890-2,2024-04-10,Gasolina 97,43000
+NicolÃ¡s,Leiva,45678901-3,2024-05-18,Gasolina 95,39500
+Emilia,CÃ¡ceres,56789012-4,2023-06-25,Gasolina 93,36500
+JoaquÃ­n,Vidal,67890123-5,2023-07-02,Diesel,46500
+Trinidad,Aguilera,78901234-6,2023-08-08,Gasolina 97,42000
+Mateo,Parra,89012345-7,2023-09-15,Gasolina 95,40500
+Maite,Romero,90123456-8,2023-10-22,Gasolina 93,37000
+Alonso,Aravena,01234567-9,2023-11-28,Diesel,47000
+Juan,PÃ©rez,12345678-9,2023-12-05,Gasolina 97,43500
+MarÃ­a,GonzÃ¡lez,98765432-1,2024-01-12,Gasolina 95,39000
+Pedro,Soto,45678901-2,2024-02-18,Gasolina 93,36000
+Ana,MuÃ±oz,78901234-3,2024-03-25,Diesel,48500
+Carlos,Rojas,23456789-0,2024-04-02,Gasolina 97,42500
+Laura,DÃ­az,56789012-3,2024-05-08,Gasolina 95,40000
+Alonso,Mendoza,15.234.567-8,2024-09-01,TCT,165000
+Maite,Quiroz,16.789.123-4,2024-09-01,Cupon electronico,78000
+Simón,Herrera,17.456.789-5,2024-09-01,TAE,192000
+Rafaela,Leiva,14.890.234-6,2024-09-02,TCT,142000
+Bruno,Tapia,16.345.678-7,2024-09-02,Cupon electronico,88000
+Elena,Poblete,15.678.912-8,2024-09-02,TAE,178000
+Dante,Andrade,17.123.456-9,2024-09-03,TCT,156000
+Aurora,Vergara,14.567.891-0,2024-09-03,Cupon electronico,92000
+León,Carvajal,16.912.345-1,2024-09-03,TAE,187000
+Olivia,Bustamante,15.345.678-2,2024-09-04,TCT,149000
+Máximo,Estrada,17.789.123-3,2024-09-04,Cupon electronico,73000
+Abril,Donoso,14.234.567-4,2024-09-04,TAE,196000
+Luciano,Salazar,16.567.891-5,2024-09-05,TCT,138000
+Emma,Pinto,15.912.345-6,2024-09-05,Cupon electronico,87000
+Bastián,Venegas,17.345.678-7,2024-09-05,TAE,182000
+Renato,Guerra,14.789.123-8,2024-09-06,TCT,153000
+Amelia,Ugalde,16.234.567-9,2024-09-06,Cupon electronico,76000
+Julián,Pacheco,15.567.891-0,2024-09-06,TAE,191000
+Violeta,Orellana,17.912.345-1,2024-09-07,TCT,144000
+Marco,Quintana,14.345.678-2,2024-09-07,Cupon electronico,89000
+Celeste,Ibáñez,16.789.123-3,2024-09-07,TAE,177000
+Lorenzo,Aguilar,15.234.567-4,2024-09-08,TCT,158000
+Maira,Cordero,17.567.891-5,2024-09-08,Cupon electronico,81000
+Facundo,Escobar,14.912.345-6,2024-09-08,TAE,193000
+Camila,Baeza,16.345.678-7,2024-09-09,TCT,147000
+Thiago,Paredes,15.789.123-8,2024-09-09,Cupon electronico,94000
+Julieta,Gallardo,17.234.567-9,2024-09-09,TAE,183000
+Octavio,Maldonado,14.567.891-0,2024-09-10,TCT,151000
+Catalina,Olmedo,16.912.345-1,2024-09-10,Cupon electronico,77000
+Borja,Cáceres,15.345.678-2,2024-09-10,TAE,188000
+Antonella,Villanueva,17.789.123-3,2024-09-11,TCT,143000
+Mateo,Zambrano,14.234.567-4,2024-09-11,Cupon electronico,86000
+Ema,Valenzuela,16.567.891-5,2024-09-11,TAE,179000
+Ian,Figueroa,15.912.345-6,2024-09-12,TCT,157000
+Belén,Arancibia,17.345.678-7,2024-09-12,Cupon electronico,82000
+Hugo,Navarrete,14.789.123-8,2024-09-12,TAE,194000
+Marina,Sepúlveda,16.234.567-9,2024-09-13,TCT,146000
+Adrián,Arellano,15.567.891-0,2024-09-13,Cupon electronico,91000
+Valentino,Oyarzún,17.912.345-1,2024-09-13,TAE,184000
+Josefa,Velásquez,14.345.678-2,2024-09-14,TCT,152000
+Luciana,Álvarez,16.789.123-3,2024-09-14,Cupon electronico,79000
+Samir,Retamal,15.234.567-4,2024-09-14,TAE,189000
+Florencia,Parra,17.567.891-5,2024-09-15,TCT,141000
+Leonor,Barrera,14.912.345-6,2024-09-15,Cupon electronico,84000
+Alana,Mardones,16.345.678-7,2024-09-15,TAE,176000
+Cristián,Hernández,15.789.123-8,2024-09-16,TCT,159000
+Aitana,Godoy,17.234.567-9,2024-09-16,Cupon electronico,83000
+Bruno,Castillo,14.567.891-0,2024-09-16,TAE,195000
+Helena,Miranda,16.912.345-1,2024-09-17,TCT,145000
+Rodrigo,Carrasco,15.345.678-2,2024-09-17,Cupon electronico,93000
+Mariana,Romero,17.789.123-3,2024-09-17,TAE,181000
+Dante,Sánchez,14.234.567-4,2024-09-18,TCT,154000
+Emilia,Lagos,16.567.891-5,2024-09-18,Cupon electronico,75000
+Matilde,Rivas,15.912.345-6,2024-09-18,TAE,190000
+Salvador,Ortiz,17.345.678-7,2024-09-19,TCT,148000
+Amanda,Vargas,14.789.123-8,2024-09-19,Cupon electronico,88000
+Renata,Carvallo,16.234.567-9,2024-09-19,TAE,185000
+Agustín,Muñoz,15.567.891-0,2024-09-20,TCT,155000
+Máximo,Araya,17.912.345-1,2024-09-20,Cupon electronico,80000
+Martín,González,14.345.678-2,2024-09-20,TAE,197000
+Amara,Valdés,16.789.123-3,2024-09-21,TCT,140000
+Bastián,Pérez,15.234.567-4,2024-09-21,Cupon electronico,85000
+Constanza,Silva,17.567.891-5,2024-09-21,TAE,180000
+Felipe,Torres,14.912.345-6,2024-09-22,TCT,160000
+Victoria,Rojas,16.345.678-7,2024-09-22,Cupon electronico,74000
+Ignacio,Castro,15.789.123-8,2024-09-22,TAE,186000
+Josefina,Morales,17.234.567-9,2024-09-23,TCT,150000
+Leonardo,Fuentes,14.567.891-0,2024-09-23,Cupon electronico,90000
+Isidora,Contreras,16.912.345-1,2024-09-23,TAE,178000
+Sebastián,Ramírez,15.345.678-2,2024-09-24,TCT,156000
+Antonia,López,17.789.123-3,2024-09-24,Cupon electronico,77000
+Vicente,Flores,14.234.567-4,2024-09-24,TAE,192000
+Trinidad,Espinoza,16.567.891-5,2024-09-25,TCT,143000
+Tomás,Vega,15.912.345-6,2024-09-25,Cupon electronico,87000
+Pascual,Reyes,17.345.678-7,2024-09-25,TAE,183000
+Magdalena,Díaz,14.789.123-8,2024-09-26,TCT,157000
+Samuel,Pizarro,16.234.567-9,2024-09-26,Cupon electronico,82000
+Javiera,Medina,15.567.891-0,2024-09-26,TAE,194000
+Gaspar,Soto,17.912.345-1,2024-09-27,TCT,147000
+Isabella,Núñez,14.345.678-2,2024-09-27,Cupon electronico,92000
+Diego,Vera,16.789.123-3,2024-09-27,TAE,179000
+Colomba,Campos,15.234.567-4,2024-09-28,TCT,153000
+Lucas,Herrera,17.567.891-5,2024-09-28,Cupon electronico,78000
+Amelia,Riquelme,14.912.345-6,2024-09-28,TAE,188000
+Rafael,Bravo,16.345.678-7,2024-09-29,TCT,144000
+Sofía,Martínez,15.789.123-8,2024-09-29,Cupon electronico,89000
+Benjamín,Guzmán,17.234.567-9,2024-09-29,TAE,181000
+Fernanda,Ruiz,14.567.891-0,2024-09-30,TCT,158000
+Joaquín,Cortés,16.912.345-1,2024-09-30,Cupon electronico,76000
+Daniela,Navarro,15.345.678-2,2024-09-30,TAE,196000
+Lucas,Pereira,16.543.987-1,2024-09-01,TCT,145000
+Matías,González,15.432.876-2,2024-09-01,Cupon electronico,85000
+Antonia,Ruiz,17.890.345-2,2024-09-02,TAE,175000
+Benjamín,López,14.678.234-3,2024-09-02,TCT,130000
+Isidora,Fernández,16.789.456-4,2024-09-03,Cupon electronico,90000
+Vicente,Morales,15.567.890-5,2024-09-03,TAE,195000
+Florencia,Silva,17.234.567-6,2024-09-04,TCT,150000
+Tomás,Contreras,14.890.123-7,2024-09-04,Cupon electronico,75000
+Magdalena,Díaz,16.456.789-8,2024-09-05,TAE,180000
+Agustín,Sandoval,15.678.901-9,2024-09-05,TCT,140000
+Amanda,Vidal,17.345.678-K,2024-09-06,Cupon electronico,80000
+Joaquín,Bravo,14.567.890-1,2024-09-06,TAE,190000
+Emilia,Navarro,16.890.123-2,2024-09-07,TCT,135000
+Cristóbal,Guzmán,15.456.789-9,2024-09-07,Cupon electronico,95000
+José,Rojas,14.987.654-3,2024-09-08,TAE,200000
+Renata,Ortiz,17.123.456-3,2024-09-08,TCT,145000
+Santiago,Alvarado,15.789.012-4,2024-09-09,Cupon electronico,70000
+Isabella,Cáceres,16.234.567-5,2024-09-09,TAE,185000
+Mateo,Espinoza,14.456.789-6,2024-09-10,TCT,155000
+Sofía,Medina,17.567.890-7,2024-09-10,Cupon electronico,85000
+Ana,Muñoz,17.654.321-K,2024-09-11,TAE,175000
+Maximiliano,Parra,15.890.123-8,2024-09-11,TCT,130000
+Victoria,Lagos,16.345.678-9,2024-09-12,Cupon electronico,90000
+Sebastián,Torres,17.890.123-1,2024-09-12,TAE,195000
+Laura,Saavedra,14.678.901-0,2024-09-13,TCT,150000
+Gabriel,Riquelme,17.123.456-1,2024-09-13,Cupon electronico,75000
+Catalina,Soto,16.543.218-4,2024-09-14,TAE,180000
+Benjamín,Cortés,14.901.234-4,2024-09-14,TCT,140000
+Valentina,Castro,16.789.012-8,2024-09-15,Cupon electronico,80000
+Felipe,Martínez,15.789.012-2,2024-09-15,TAE,190000
+Ignacia,Fuentes,17.234.567-2,2024-09-16,TCT,135000
+Diego,Silva,15.678.901-7,2024-09-16,Cupon electronico,95000
+Martina,Vera,16.456.789-3,2024-09-17,TAE,200000
+Pedro,Valdés,13.876.543-5,2024-09-17,TCT,145000
+Javiera,Molina,17.567.890-4,2024-09-18,Cupon electronico,70000
+Nicolás,Campos,15.890.123-5,2024-09-18,TAE,185000
+Trinidad,Rojas,16.234.567-6,2024-09-19,TCT,155000
+Lucas,Pereira,16.543.987-1,2024-09-19,Cupon electronico,85000
+Matías,González,15.432.876-2,2024-09-20,TAE,175000
+Fernanda,Araya,17.345.678-7,2024-09-20,TCT,130000
+Samuel,Miranda,14.567.890-8,2024-09-21,Cupon electronico,90000
+Antonella,Núñez,16.789.012-9,2024-09-21,TAE,195000
+Tomás,Contreras,14.890.123-7,2024-09-22,TCT,150000
+Isidora,Fernández,16.789.456-4,2024-09-22,Cupon electronico,75000
+Vicente,Morales,15.567.890-5,2024-09-23,TAE,180000
+Constanza,Flores,18.901.234-4,2024-09-23,TCT,140000
+José,Rojas,14.987.654-3,2024-09-24,Cupon electronico,80000
+Amanda,Vidal,17.345.678-K,2024-09-24,TAE,190000
+Cristóbal,Guzmán,15.456.789-9,2024-09-25,TCT,135000
+Magdalena,Díaz,16.456.789-8,2024-09-25,Cupon electronico,95000
+Agustín,Sandoval,15.678.901-9,2024-09-26,TAE,200000
+Renata,Ortiz,17.123.456-3,2024-09-26,TCT,145000
+Joaquín,Bravo,14.567.890-1,2024-09-27,Cupon electronico,70000
+Emilia,Navarro,16.890.123-2,2024-09-27,TAE,185000
+Santiago,Alvarado,15.789.012-4,2024-09-28,TCT,155000
+Isabella,Cáceres,16.234.567-5,2024-09-28,Cupon electronico,85000
+Mateo,Espinoza,14.456.789-6,2024-09-29,TAE,175000
+Ana,Muñoz,17.654.321-K,2024-09-29,TCT,130000
+Sofía,Medina,17.567.890-7,2024-09-30,Cupon electronico,90000
+Maximiliano,Parra,15.890.123-8,2024-09-30,TAE,195000
+Victoria,Lagos,16.345.678-9,2024-10-01,TCT,150000
+Sebastián,Torres,17.890.123-1,2024-10-01,Cupon electronico,75000
+Laura,Saavedra,14.678.901-0,2024-10-02,TAE,180000
+Gabriel,Riquelme,17.123.456-1,2024-10-02,TCT,140000
+Catalina,Soto,16.543.218-4,2024-10-03,Cupon electronico,80000
+Benjamín,Cortés,14.901.234-4,2024-10-03,TAE,190000
+Valentina,Castro,16.789.012-8,2024-10-04,TCT,135000
+Felipe,Martínez,15.789.012-2,2024-10-04,Cupon electronico,95000
+Ignacia,Fuentes,17.234.567-2,2024-10-05,TAE,200000
+Diego,Silva,15.678.901-7,2024-10-05,TCT,145000
+Martina,Vera,16.456.789-3,2024-10-06,Cupon electronico,70000
+Pedro,Valdés,13.876.543-5,2024-10-06,TAE,185000
+Javiera,Molina,17.567.890-4,2024-10-07,TCT,155000
+Nicolás,Campos,15.890.123-5,2024-10-07,Cupon electronico,85000
+Trinidad,Rojas,16.234.567-6,2024-10-08,TAE,175000
+Lucas,Pereira,16.543.987-1,2024-10-08,TCT,130000
+Fernanda,Araya,17.345.678-7,2024-10-09,Cupon electronico,90000
+Samuel,Miranda,14.567.890-8,2024-10-09,TAE,195000
+Antonella,Núñez,16.789.012-9,2024-10-10,TCT,150000
+Tomás,Contreras,14.890.123-7,2024-10-10,Cupon electronico,75000
+Isidora,Fernández,16.789.456-4,2024-10-11,TAE,180000
+Vicente,Morales,15.567.890-5,2024-10-11,TCT,140000
+Constanza,Flores,18.901.234-4,2024-10-12,Cupon electronico,80000
+José,Rojas,14.987.654-3,2024-10-12,TAE,190000
+Amanda,Vidal,17.345.678-K,2024-10-13,TCT,135000
+Cristóbal,Guzmán,15.456.789-9,2024-10-13,Cupon electronico,95000
+Magdalena,Díaz,16.456.789-8,2024-10-14,TAE,200000
+Agustín,Sandoval,15.678.901-9,2024-10-14,TCT,145000
+Renata,Ortiz,17.123.456-3,2024-10-15,Cupon electronico,70000
+Joaquín,Bravo,14.567.890-1,2024-10-15,TAE,185000
+Emilia,Navarro,16.890.123-2,2024-10-16,TCT,155000
+Santiago,Alvarado,15.789.012-4,2024-10-16,Cupon electronico,85000
+Isabella,Cáceres,16.234.567-5,2024-10-17,TAE,175000
+Mateo,Espinoza,14.456.789-6,2024-10-17,TCT,130000
+Ana,Muñoz,17.654.321-K,2024-10-18,Cupon electronico,90000
+Sofía,Medina,17.567.890-7,2024-10-18,TAE,195000
+Maximiliano,Parra,15.890.123-8,2024-10-19,TCT,150000
+Victoria,Lagos,16.345.678-9,2024-10-19,Cupon electronico,75000
+Sebastián,Torres,17.890.123-1,2024-10-20,TAE,180000
+Laura,Saavedra,14.678.901-0,2024-10-20,TCT,140000
+Gabriel,Riquelme,17.123.456-1,2024-10-21,Cupon electronico,80000
+Catalina,Soto,16.543.218-4,2024-10-21,TAE,190000
+Benjamín,Cortés,14.901.234-4,2024-10-22,TCT,135000
+Valentina,Castro,16.789.012-8,2024-10-22,Cupon electronico,95000
+Felipe,Martínez,15.789.012-2,2024-10-23,TAE,200000
+Ignacia,Fuentes,17.234.567-2,2024-10-23,TCT,145000
+Diego,Silva,15.678.901-7,2024-10-24,Cupon electronico,70000
+Martina,Vera,16.456.789-3,2024-10-24,TAE,185000
+Pedro,Valdés,13.876.543-5,2024-10-25,TCT,155000
+Javiera,Molina,17.567.890-4,2024-10-25,Cupon electronico,85000
+Nicolás,Campos,15.890.123-5,2024-10-26,TAE,175000
+Trinidad,Rojas,16.234.567-6,2024-10-26,TCT,130000
+Lucas,Pereira,16.543.987-1,2024-10-27,Cupon electronico,90000
+Fernanda,Araya,17.345.678-7,2024-10-27,TAE,195000
+Samuel,Miranda,14.567.890-8,2024-10-28,TCT,150000
+Antonella,Núñez,16.789.012-9,2024-10-28,Cupon electronico,75000
+Tomás,Contreras,14.890.123-7,2024-10-29,TAE,180000
+Isidora,Fernández,16.789.456-4,2024-10-29,TCT,140000
+Vicente,Morales,15.567.890-5,2024-10-30,Cupon electronico,80000
+Constanza,Flores,18.901.234-4,2024-10-30,TAE,190000
+José,Rojas,14.987.654-3,2024-10-31,TCT,135000
+Amanda,Vidal,17.345.678-K,2024-10-31,Cupon electronico,95000
+Matías,González,15.432.876-2,2024-09-01,TCT,150000
+Ana,Muñoz,17.654.321-K,2024-09-02,Cupon electronico,75000
+José,Rojas,14.987.654-3,2024-09-03,TAE,200000
+Catalina,Soto,16.543.218-4,2024-09-03,TCT,125000
+Pedro,Valdés,13.876.543-5,2024-09-04,Cupon electronico,80000
+María,Pérez,18.234.567-6,2024-09-05,TAE,180000
+Diego,Silva,15.678.901-7,2024-09-06,TCT,145000
+Valentina,Castro,16.789.012-8,2024-09-07,Cupon electronico,90000
+Matías,González,15.432.876-2,2024-09-08,TAE,195000
+Carolina,López,14.567.890-9,2024-09-09,TCT,135000
+Sebastián,Torres,17.890.123-1,2024-09-10,Cupon electronico,85000
+Ana,Muñoz,17.654.321-K,2024-09-11,TAE,175000
+Felipe,Martínez,15.789.012-2,2024-09-12,TCT,155000
+Javiera,Ramírez,16.890.123-3,2024-09-13,Cupon electronico,70000
+José,Rojas,14.987.654-3,2024-09-14,TAE,190000
+Constanza,Flores,18.901.234-4,2024-09-15,TCT,140000
+Diego,Silva,15.678.901-7,2024-09-16,Cupon electronico,95000
+Isabel,Vargas,17.012.345-5,2024-09-17,TAE,185000
+Rodrigo,Morales,14.123.456-6,2024-09-18,TCT,130000
+Catalina,Soto,16.543.218-4,2024-09-19,Cupon electronico,75000
+Andrés,Núñez,15.234.567-7,2024-09-20,TAE,195000
+Valentina,Castro,16.789.012-8,2024-09-21,TCT,150000
+Pablo,Herrera,18.345.678-8,2024-09-22,Cupon electronico,80000
+María,Pérez,18.234.567-6,2024-09-23,TAE,170000
+Cristóbal,Guzmán,15.456.789-9,2024-09-24,TCT,145000
+Ana,Muñoz,17.654.321-K,2024-09-25,Cupon electronico,90000
+Jorge,Araya,16.567.890-0,2024-09-26,TAE,180000
+Carolina,López,14.567.890-9,2024-09-27,TCT,135000
+Matías,González,15.432.876-2,2024-09-28,Cupon electronico,85000
+Vicente,Campos,17.678.901-1,2024-09-29,TAE,175000
+Francisca,Rivas,15.789.012-2,2024-09-30,TCT,140000
+Pedro,Valdés,13.876.543-5,2024-10-01,Cupon electronico,70000
+José,Rojas,14.987.654-3,2024-10-02,TAE,200000
+Daniela,Sepúlveda,18.890.123-3,2024-10-03,TCT,150000
+Diego,Silva,15.678.901-7,2024-10-04,Cupon electronico,95000
+Valentina,Castro,16.789.012-8,2024-10-05,TAE,185000
+Benjamín,Cortés,14.901.234-4,2024-10-06,TCT,130000
+Catalina,Soto,16.543.218-4,2024-10-07,Cupon electronico,75000
+Ignacio,Fuentes,17.012.345-5,2024-10-08,TAE,190000
+María,Pérez,18.234.567-6,2024-10-09,TCT,145000
+Camila,Miranda,15.123.456-6,2024-10-10,Cupon electronico,80000
+Ana,Muñoz,17.654.321-K,2024-10-11,TAE,175000
+Sebastián,Torres,17.890.123-1,2024-10-12,TCT,155000
+Trinidad,Vega,16.234.567-7,2024-10-13,Cupon electronico,90000
+José,Rojas,14.987.654-3,2024-10-14,TAE,195000
+Martina,Pizarro,18.345.678-8,2024-10-15,TCT,135000
+Diego,Silva,15.678.901-7,2024-10-16,Cupon electronico,85000
+Carolina,López,14.567.890-9,2024-10-17,TAE,180000
+Matías,González,15.432.876-2,2024-10-18,TCT,140000
+Javiera,Ramírez,16.890.123-3,2024-10-19,Cupon electronico,70000
+Felipe,Martínez,15.789.012-2,2024-10-20,TAE,200000
+Constanza,Flores,18.901.234-4,2024-10-21,TCT,150000
+Pedro,Valdés,13.876.543-5,2024-10-22,Cupon electronico,95000
+Isabel,Vargas,17.012.345-5,2024-10-23,TAE,185000
+Valentina,Castro,16.789.012-8,2024-10-24,TCT,130000
+Rodrigo,Morales,14.123.456-6,2024-10-25,Cupon electronico,75000
+Catalina,Soto,16.543.218-4,2024-10-26,TAE,190000
+Pablo,Herrera,18.345.678-8,2024-10-27,TCT,145000
+María,Pérez,18.234.567-6,2024-10-28,Cupon electronico,80000
+Ana,Muñoz,17.654.321-K,2024-10-29,TAE,175000
+Cristóbal,Guzmán,15.456.789-9,2024-10-30,TCT,155000
+Jorge,Araya,16.567.890-0,2024-10-31,Cupon electronico,90000
+José,Rojas,14.987.654-3,2024-09-01,TAE,195000
+Carolina,López,14.567.890-9,2024-09-02,TCT,135000
+Diego,Silva,15.678.901-7,2024-09-03,Cupon electronico,85000
+Vicente,Campos,17.678.901-1,2024-09-04,TAE,180000
+Matías,González,15.432.876-2,2024-09-05,TCT,140000
+Francisca,Rivas,15.789.012-2,2024-09-06,Cupon electronico,70000
+Pedro,Valdés,13.876.543-5,2024-09-07,TAE,200000
+Daniela,Sepúlveda,18.890.123-3,2024-09-08,TCT,150000
+Valentina,Castro,16.789.012-8,2024-09-09,Cupon electronico,95000
+Benjamín,Cortés,14.901.234-4,2024-09-10,TAE,185000
+Catalina,Soto,16.543.218-4,2024-09-11,TCT,130000
+Ignacio,Fuentes,17.012.345-5,2024-09-12,Cupon electronico,75000
+María,Pérez,18.234.567-6,2024-09-13,TAE,190000
+Ana,Muñoz,17.654.321-K,2024-09-14,TCT,145000
+Camila,Miranda,15.123.456-6,2024-09-15,Cupon electronico,80000
+Sebastián,Torres,17.890.123-1,2024-09-16,TAE,175000
+Trinidad,Vega,16.234.567-7,2024-09-17,TCT,155000
+José,Rojas,14.987.654-3,2024-09-18,Cupon electronico,90000
+Martina,Pizarro,18.345.678-8,2024-09-19,TAE,195000
+Diego,Silva,15.678.901-7,2024-09-20,TCT,135000
+Carolina,López,14.567.890-9,2024-09-21,Cupon electronico,85000
+Javiera,Ramírez,16.890.123-3,2024-09-22,TAE,180000
+Matías,González,15.432.876-2,2024-09-23,TCT,140000
+Felipe,Martínez,15.789.012-2,2024-09-24,Cupon electronico,70000
+Constanza,Flores,18.901.234-4,2024-09-25,TAE,200000
+Pedro,Valdés,13.876.543-5,2024-09-26,TCT,150000
+Isabel,Vargas,17.012.345-5,2024-09-27,Cupon electronico,95000
+Valentina,Castro,16.789.012-8,2024-09-28,TAE,185000
+Rodrigo,Morales,14.123.456-6,2024-09-29,TCT,130000
+Catalina,Soto,16.543.218-4,2024-09-30,Cupon electronico,75000
+Pablo,Herrera,18.345.678-8,2024-10-01,TAE,190000
+María,Pérez,18.234.567-6,2024-10-02,TCT,145000
+Ana,Muñoz,17.654.321-K,2024-10-03,Cupon electronico,80000
+Cristóbal,Guzmán,15.456.789-9,2024-10-04,TAE,175000
+Jorge,Araya,16.567.890-0,2024-10-05,TCT,155000
+José,Rojas,14.987.654-3,2024-10-06,Cupon electronico,90000
+Carolina,López,14.567.890-9,2024-10-07,TAE,195000
+Diego,Silva,15.678.901-7,2024-10-08,TCT,135000
+Vicente,Campos,17.678.901-1,2024-10-09,Cupon electronico,85000
+Matías,González,15.432.876-2,2024-10-10,TAE,180000
+Francisca,Rivas,15.789.012-2,2024-10-11,TCT,140000
+Pedro,Valdés,13.876.543-5,2024-10-12,Cupon electronico,70000
+Daniela,Sepúlveda,18.890.123-3,2024-10-13,TAE,200000
+Valentina,Castro,16.789.012-8,2024-10-14,TCT,150000
+Benjamín,Cortés,14.901.234-4,2024-10-15,Cupon electronico,95000
+Catalina,Soto,16.543.218-4,2024-10-16,TAE,185000
